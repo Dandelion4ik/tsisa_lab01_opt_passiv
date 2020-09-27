@@ -1,0 +1,3 @@
+C:/Users/User/CLionProject/tsisa_lab01_opt_passiv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/CLionProject/tsisa_lab01_opt_passiv/cmake-build-debug/CMakeFiles/tsisa_lab01_opt_passiv.dir
+C:/Users/User/CLionProject/tsisa_lab01_opt_passiv/cmake-build-debug/CMakeFiles/edit_cache.dir

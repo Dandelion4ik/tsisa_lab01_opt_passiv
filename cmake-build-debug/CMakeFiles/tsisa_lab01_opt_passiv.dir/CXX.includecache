@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProject/tsisa_lab01_opt_passiv/main.cpp
+algorithm
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+utility
+-
+vector
+-
+
